@@ -1,7 +1,23 @@
-def hello():
-    return 'hello'
+from naan_factory_functions import *
+# def hello():
+#     return 'hello'
+#
+# print(hello())
+#
+# print(make_dough('cement', 'water'))
 
-print(hello())
+# Here we run the factory (functions)
+
+# we call the function
+
+print("Welcome to the Naan Factory")
+produce1 = input("What is the first produce?")
+produce2 = input("What is the second produce?")
+
+output1 = make_dough(produce1, produce2)
+final_output = bake_dough(output1)
+
+print("Well done! You made some:", final_output)
 
 # Basis of a test
 # You'll be testing functions or methods, these need to be called or initialised
@@ -23,7 +39,6 @@ print(hello())
 #         return 'not_Naan'
 
 
-print(make_dough('cement', 'water'))
 
 # # Make test for make_dough
 # # To make dough it will take in water and flour to make dough
