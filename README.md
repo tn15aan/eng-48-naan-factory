@@ -11,6 +11,13 @@ The learning outcomes include:
 - DRY principles
 - Separation of concerns
 
+## How to run the program
+Run the naan_factory_run.py file
+
+## How to run the tests
+Run the naan_factory_tests.py file
+
+
 ## Specifications of the factory
 Our factory will have two steps
 
@@ -28,3 +35,4 @@ output = 'Naan'
 Lastly we should just be able to give the factory the water and flour to get naan
 inputs = 'water' and 'flour'
 output = 'Naan'
+
