@@ -1,8 +1,8 @@
-# Eng-48 Naan Factory :taco: :naan:
+# Eng-48 Naan Factory :taco: :bread:
 
 This is a repo for our Naan factory
 
-The leaning outcomes include:
+The learning outcomes include:
 - git
 - GitHub
 - Markdown
