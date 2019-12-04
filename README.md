@@ -25,3 +25,4 @@ output = 'Naan'
 ### Factory run
 Lastly we should just be able to give the factory the water and flour to get naan
 inputs = 'water' and 'flour'
+output = 'Naan'
